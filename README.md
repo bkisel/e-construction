@@ -1,6 +1,4 @@
 # e-construction
-for my tests in e-construction
-
 
 Опис:
 Проєкт складається з трьох основних файлів: 
